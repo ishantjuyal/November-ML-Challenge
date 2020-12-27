@@ -13,7 +13,7 @@ The task is to predict the selling price of the products based on the provided f
 The data folder consists of the following three .csv files:
 
 1. train.csv
-2. test.csv: ()
+2. test.csv
 
 Solution:
 
