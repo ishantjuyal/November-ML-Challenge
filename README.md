@@ -15,10 +15,10 @@ The data folder consists of the following three .csv files:
 1. train.csv
 2. test.csv
 
-Solution:
+### Solution:
 
 [See this notebook](https://github.com/ishantjuyal/November-ML-Challenge/blob/main/Predict%20Selling%20Price%20Solution.ipynb)
 
-Result:
+### Result:
 
 Secured rank 68 out of 2144 participants with final score = 91.47715/100
